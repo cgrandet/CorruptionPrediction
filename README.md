@@ -1,5 +1,6 @@
 # CorruptionPrediction
-Classs Project - Prediction of corruption in WB contracts
+Class Project - Prediction of corruption in WB contracts
+By Carlos Grandet, Santiago Matallana and Hector Salvador
 
 # MLearning_WB_project
 Machine Learning for Public Policy (UChicago) - final project
